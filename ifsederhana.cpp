@@ -13,3 +13,5 @@ int main()
         x = x + 1;
         cout << "Nilai x Sudah dikoreksi menjadi : " << x << endl;
     }
+cout << "Bilangan yang diberikan = " << x;
+}
